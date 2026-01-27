@@ -1,13 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Ciallo~}&fontSize=90&fontAlign=50&fontAlignY=30&desc={小微大魔王}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={Be Water}&fontSize=90&fontAlign=50&fontAlignY=70&desc={My friend}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=15B318&background=E263FF00&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+World!)](https://git.io/typing-svg)
 
 

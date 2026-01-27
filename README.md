@@ -8,3 +8,12 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=520xiaowei)](https://git.io/streak-stats)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=520xiaowei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=520xiaowei&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+
+<img src="https://komarev.com/ghpvc/?username=520xiaowei&abbreviated=true" />
